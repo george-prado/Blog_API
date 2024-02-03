@@ -2,12 +2,13 @@
 using Blog.Extensions;
 using Blog.Models;
 using Blog.ViewModels;
+using Blog.ViewModels.Categories;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
 namespace Blog.Controllers
 {
-	[ApiController]
+    [ApiController]
 	public class CategoryController : ControllerBase
 	{
 		//GET all

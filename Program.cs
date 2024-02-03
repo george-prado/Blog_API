@@ -17,6 +17,7 @@ LoadConfiguration(app);
 
 app.UseAuthentication();
 app.UseAuthorization();
+app.UseStaticFiles();
 app.MapControllers();
 app.Run();
 
@@ -30,7 +31,7 @@ void LoadConfiguration(WebApplication app)
 	var smtp = new Configuration.SmtpConfiguration();
 	app.Configuration.GetSection("Smtp").Bind(smtp);
 	Configuration.Smtp = smtp;
-}
+};
 void ConfigureAuthentication(WebApplicationBuilder builder)
 {
 	var key = Encoding.ASCII.GetBytes(Configuration.JwtKey);
@@ -52,16 +53,17 @@ void ConfigureAuthentication(WebApplicationBuilder builder)
 		};
 	});
 
-}
+};
 void ConfigureMvc(WebApplicationBuilder builder)
 {
 	builder.Services.AddControllers().ConfigureApiBehaviorOptions(options =>
 	{
 		options.SuppressModelStateInvalidFilter = true;
 	});
-}
+};
 void ConfigureServices(WebApplicationBuilder builder)
 {
 	builder.Services.AddDbContext<BlogDataContext>();
 	builder.Services.AddTransient<TokenService>();
-}
+	builder.Services.AddTransient<EmailService>();
+};
