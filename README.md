@@ -30,7 +30,7 @@ Linkedin: https://www.linkedin.com/in/george-prado-dev
 
 ##
 
-# Portifolio (HTML & CSS)
+# Blog (ASP.NET 8 & EF Core)
 
 ## Objetivo do projeto!
 
