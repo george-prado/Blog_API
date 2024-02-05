@@ -13,7 +13,7 @@ The standardization of all outputs, including error messages, has been prioritiz
 - Entity Framework <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" />
 - SQL Server <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
 - Docker <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg" />
-- Swagger <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/swagger-api/swagger-ui/master/dist/favicon-32x32.png" />
+- Swagger <img align="center" height="30" width="30" src="https://raw.githubusercontent.com/swagger-api/swagger-ui/master/dist/favicon-32x32.png" />
 
 
 
@@ -22,7 +22,7 @@ The standardization of all outputs, including error messages, has been prioritiz
 
 ## Author
 
-George Alberto Melo do Prado
+ <a href="https://github.com/george-prado" target="_blank">George Alberto Melo do Prado</a>
 
 ##
 
@@ -45,13 +45,13 @@ A padronização de todas as saídas, incluindo mensagens de erro, foi priorizad
 - Entity Framework <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" />
 - SQL Server <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
 - Docker <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg" />
-- Swagger <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/swagger-api/swagger-ui/master/dist/favicon-32x32.png" />
+- Swagger <img align="center" height="30" width="30" src="https://raw.githubusercontent.com/swagger-api/swagger-ui/master/dist/favicon-32x32.png" />
 
 
 
 ## Autor
 
-George Alberto Melo do Prado
+ <a href="https://github.com/george-prado" target="_blank">George Alberto Melo do Prado</a>
 
 ##
 
