@@ -56,7 +56,7 @@ namespace Blog.Controllers
 		[HttpGet("v1/posts/id={id:int}")]
 		public async Task<IActionResult> GetByIdAsync(
 			[FromRoute]int id,
-			[FromServices] BlogDataContext context,
+			[FromServices]BlogDataContext context,
 			[FromQuery] int page = 0,
 			[FromQuery] int pageSize = 25)
 				{
@@ -84,8 +84,8 @@ namespace Blog.Controllers
 
 		[HttpGet("v1/posts/category/{category}")]
 		public async Task<IActionResult> GetAsync(
-			[FromRoute] string category,
-			[FromServices] BlogDataContext context,
+			[FromRoute]string category,
+			[FromServices]BlogDataContext context,
 			[FromQuery] int page = 0,
 			[FromQuery] int pageSize = 25)
 		{
