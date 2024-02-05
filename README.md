@@ -10,10 +10,10 @@ The standardization of all outputs, including error messages, has been prioritiz
 
 - C# <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
 - ASP.NET 8 <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" />
-- Entity Framework <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-plain-wordmark.svg" />
+- Entity Framework <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" />
 - SQL Server <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
 - Docker <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg" />
-- Swagger <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" />
+- Swagger <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/swagger-api/swagger-ui/master/src/favicon-32x32.png" />
 
 ## Author
 
@@ -37,10 +37,10 @@ A padronização de todas as saídas, incluindo mensagens de erro, foi priorizad
 
 - C# <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
 - ASP.NET 8 <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" />
-- Entity Framework <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-plain-wordmark.svg" />
+- Entity Framework <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" />
 - SQL Server <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
 - Docker <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg" />
-- Swagger <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" />
+- Swagger <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/swagger-api/swagger-ui/master/src/favicon-32x32.png" />
 
 ## Autor
 
