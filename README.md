@@ -22,7 +22,7 @@ The standardization of all outputs, including error messages, has been prioritiz
 
 ## Author
 
- <a href="https://github.com/george-prado" target="_blank">George Alberto Melo do Prado</a>
+[George Alberto Melo do Prado](https://github.com/george-prado){:target="_blank"}
 
 ##
 
@@ -38,7 +38,7 @@ O principal objetivo deste projeto é desenvolver uma API de Blog robusta que ab
 
 A padronização de todas as saídas, incluindo mensagens de erro, foi priorizada. Isso garante uma integração mais fluida e limpa com o Front-End, facilitando uma experiência amigável para o usuário.
 
-## Técnologias utilizadas:
+## Tecnologias utilizadas:
 
 - C# <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
 - ASP.NET 8 <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" />
@@ -51,7 +51,7 @@ A padronização de todas as saídas, incluindo mensagens de erro, foi priorizad
 
 ## Autor
 
- <a href="https://github.com/george-prado" target="_blank">George Alberto Melo do Prado</a>
+[George Alberto Melo do Prado](https://github.com/george-prado){:target="_blank"}
 
 ##
 
