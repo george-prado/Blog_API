@@ -22,7 +22,7 @@ The standardization of all outputs, including error messages, has been prioritiz
 
 ## Author
 
-[George Alberto Melo do Prado](https://github.com/george-prado){:target="_blank"}
+[George Alberto Melo do Prado](https://github.com/george-prado)
 
 ##
 
@@ -51,7 +51,7 @@ A padronização de todas as saídas, incluindo mensagens de erro, foi priorizad
 
 ## Autor
 
-[George Alberto Melo do Prado](https://github.com/george-prado){:target="_blank"}
+[George Alberto Melo do Prado](https://github.com/george-prado)
 
 ##
 
